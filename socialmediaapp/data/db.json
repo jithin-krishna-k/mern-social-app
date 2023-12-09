@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "2nd Postde2d2d",
+      "datetime": "September 10, 2023 6:09:16 PM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atqddue blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 3,
+      "title": "3rd Post",
+      "datetime": "September 10, 2023 7:30:31 PM",
+      "body": "GWEGWEGWG wfdqwfqhello ameen"
+    },
+    {
+      "id": 4,
+      "title": "hai",
+      "datetime": "September 10, 2023 7:30:46 PM",
+      "body": "helloooo"
+    },
+    {
+      "id": 5,
+      "title": "boss",
+      "datetime": "October 19, 2023 9:37:43 PM",
+      "body": "dwqdqw"
+    }
+  ]
+}
